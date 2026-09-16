@@ -39,3 +39,6 @@
 .company-copy h2{font-size:clamp(40px,4.3vw,66px)}
 .company-copy h2 span{display:block;white-space:nowrap}
 @media(max-width:760px){.company-copy h2{font-size:9.5vw}}
+.contact h2{font-size:clamp(40px,4vw,62px)}
+.contact h2 span{display:block;white-space:nowrap}
+@media(max-width:760px){.contact h2{font-size:9.5vw}}
