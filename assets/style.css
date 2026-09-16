@@ -36,3 +36,6 @@
 .big-copy{font-size:clamp(44px,5.2vw,78px)}
 .big-copy span{display:block;white-space:nowrap}
 @media(max-width:760px){.big-copy{font-size:9.8vw}}
+.company-copy h2{font-size:clamp(40px,4.3vw,66px)}
+.company-copy h2 span{display:block;white-space:nowrap}
+@media(max-width:760px){.company-copy h2{font-size:9.5vw}}
