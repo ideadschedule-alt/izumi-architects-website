@@ -33,3 +33,6 @@
 @media(max-width:760px){.recruit-copy h2{font-size:9.5vw}}
 .recruit-message{font-size:clamp(11px,1.15vw,14px)!important}
 .recruit-message span{display:block;white-space:nowrap}
+.big-copy{font-size:clamp(44px,5.2vw,78px)}
+.big-copy span{display:block;white-space:nowrap}
+@media(max-width:760px){.big-copy{font-size:9.8vw}}
